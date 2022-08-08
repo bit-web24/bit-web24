@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bit-web24
-- 👀 I’m interested in c/c++ and python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in bulding new things
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me bitweb24@gmail.com
 
