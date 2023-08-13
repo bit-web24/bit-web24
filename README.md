@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @bit-web24
-- 👀 I’m interested in bulding new things
-- 🌱 I’m currently working on projects
-- 🌱 I’m currently exploring the fascinating world of blockchain technology
-- 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me bitweb24@gmail.com
+[![bit-web24's GitHub | Languages Over Time](https://stats.quine.sh/bit-web24/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bit-web24)
