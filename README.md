@@ -8,18 +8,18 @@ I love working with modern technologies, exploring new tools, and solving comple
 ## 🚀 Tech Stack
 
 - **Languages:** C++, Rust, Python, Golang  
-- **Frameworks:** FastAPI, Django  
-- **Databases:** MSSQL  
-- **DevOps & Tools:** Git, GitHub Actions, Bash, Vim  
+- **Frameworks:** FastAPI, Django, Gin
+- **Databases:** PostgreSQL, MongoDB, MSSQL
+- **DevOps & Tools:** Git, GitHub Actions, Bash, Vim, poetry  
 - **Operating System:** Linux (Ubuntu)
 
 ---
 
 ## 🧑‍💻 What I'm Learning
 
-- Systems programming (Rust, Golang)
+- Systems programming (Rust, C++)
 - Building scalable and robust backend architectures
-- DevOps practices with GitHub Actions
+- DevOps practices with GitHub Actions, containerization and deployments
 
 ---
 
